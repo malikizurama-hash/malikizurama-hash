@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+You can call me maliki, Im a Software Engineering Student at ITS,
+I'm proficient at Communications, Teamwork, and also i'm working on improving my programming skills ( currently focusing on c++ ).
+
+If you're interested on contacting me --> malikizurama@gmail.com
+
 <!--
 **malikizurama-hash/malikizurama-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
